@@ -18,7 +18,7 @@ public class TheIfStatement {
         System.out.println();
         System.out.println("Total Sale: " + tSale);
 
-        if(tSale >= 360.00) System.out.println("Quota Status: Achieved!");
+        if(tSale == 360.00) System.out.println("Quota Status: Achieved!");
         else System.out.println("Quota Status: Not Achieved");
         
        
