@@ -15,13 +15,13 @@ public class PracticalActivity {
 		
 		switch (cBrand) {
 		    case "Bench":
-		    System.out.println("The Cloting Brand you pick is: Bench ");
+		    System.out.println("The Clothing Brand you pick is: Bench ");
 		    break;
 		    case "Penshoppe":
-		    System.out.println("The Cloting Brand you pick is: Penshoppe");
+		    System.out.println("The Clothing Brand you pick is: Penshoppe");
 		    break;
 		    case "Shein":
-		    System.out.println("The Cloting Brand you pick is: Shein");
+		    System.out.println("The Clothing Brand you pick is: Shein");
 		    break;
             default:
             System.out.println("The Brand you pick: Brand not available!");
