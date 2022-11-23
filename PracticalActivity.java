@@ -24,7 +24,7 @@ public class PracticalActivity {
 		    System.out.println("The Cloting Brand you pick is: Shein");
 		    break;
             default:
-            System.out.println("Brand not available");
+            System.out.println("The Brand you pick: Brand not available!");
 		}
         switch (tSize) {
 		    case "Small":
@@ -37,7 +37,7 @@ public class PracticalActivity {
 		    System.out.println("The size you pick is: Large");
 		    break;
             default:
-            System.out.println("Size not available!");
+            System.out.println("The size you pick: Size not available!");
             
 		   
 		}
