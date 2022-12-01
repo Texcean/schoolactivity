@@ -11,8 +11,10 @@ public class Exam {
 
         System.out.print("Please enter the value of the length: ");
         length = sc.nextInt();
+
         System.out.print("Please enter the value of the width: ");
         width = sc.nextInt();
+
         sqm = length * width;
         System.out.print("The value of square metre: " + sqm);
 
